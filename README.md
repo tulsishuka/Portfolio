@@ -5,7 +5,6 @@ A modern, responsive personal portfolio built with Next.js, showcasing my skills
 
 🔗 Live Demo: https://portfolio-3eov.vercel.app/
 
-Home Page : ![Home Page](/src/assets/web.png)
 
 ✨ Features
 
