@@ -26,7 +26,6 @@ const MobileNav = () => {
       <SheetTrigger className="flex justify-center items-center mt-15">
         <CiMenuFries className="text-[32px] text-green-400" />
       </SheetTrigger>
-
       <SheetContent className="w-3/5 bg-black flex flex-col justify-start items-center gap-6 pt-12">
         {/* Logo / Name */}
         <div className="text-center text-2xl mb-6">

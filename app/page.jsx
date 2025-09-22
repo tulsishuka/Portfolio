@@ -1,5 +1,3 @@
-
-
 "use client"
 import React from 'react'
 import { Button } from '@/components/ui/button'
@@ -13,7 +11,6 @@ const Home = () => {
     <section className="relative w-full py-16 xl:py-24">
       <div className="container mx-auto">
         <div className="flex flex-col xl:flex-row items-center justify-between gap-6 xl:gap-12">
-
           <div className="flex-1 text-center xl:text-left px-6 md:px-8 lg:px-12">
   <span className="text-xl md:text-2xl text-green-400 font-medium uppercase tracking-wide">
     Software Developer
@@ -47,8 +44,6 @@ const Home = () => {
     />
   </div>
 </div>
-
-
           {/* RIGHT PHOTO */}
           <div className="flex-1 flex justify-center xl:justify-end px-2 md:px-0">
             <Photo />
