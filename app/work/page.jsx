@@ -110,6 +110,7 @@ const projects = [
     image: "/assets/work/ai.png",
     github: "https://github.com/tulsishuka/ai-chatbot",
   },
+
 ]
 
 const Work = () => {
