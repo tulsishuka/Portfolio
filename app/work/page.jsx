@@ -110,44 +110,42 @@ const projects = [
     image: "/assets/work/ai.png",
     github: "https://github.com/tulsishuka/ai-chatbot",
   },
- {
+{
     num: "08",
-    desc: "AI-Chatbot - Search Anything",
-    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
-    image: "/assets/work/Login Page.png",
+         desc: "Login Page- Mern Authentication",
+
+         stack: [{ name: "Html" }, { name: "Express" }, { name: "Node.js" }, { name: "React" }, { name: "Tailwindcss" },{ name: "Javascript" }],
+
+    image: "/assets/work/Post Maker.png",
     github: "https://github.com/tulsishuka/ai-chatbot",
   },
    {
     num: "09",
-    desc: "AI-Chatbot - Search Anything",
-    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
+    desc: "Dream Property - Find Your Home ",
+    stack: [{ name: "Html" }, { name: "Css" }, { name: "React" }, { name: "Tailwindcss" }],
     image: "/assets/work/Dream.png",
     github: "https://github.com/tulsishuka/ai-chatbot",
   },
    {
     num: "10",
-    desc: "AI-Chatbot - Search Anything",
-    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
+    desc: "Pagination ",
+    stack: [{ name: "Html" }, { name: "Css" },  { name: "React" }, { name: "Tailwindcss" }],
     image: "/assets/work/Pagination.png",
     github: "https://github.com/tulsishuka/ai-chatbot",
   },
    {
     num: "11",
-    desc: "AI-Chatbot - Search Anything",
-    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
+         desc: "Post Maker- Mern Authentication",
+
+         stack: [{ name: "Html" }, { name: "Express" }, { name: "Node.js" }, { name: "React" }, { name: "Tailwindcss" },{ name: "Javascript" }],
+
     image: "/assets/work/Post Maker.png",
     github: "https://github.com/tulsishuka/ai-chatbot",
   },
-   {
-    num: "12",
-    desc: "AI-Chatbot - Search Anything",
-    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
-    image: "/assets/work/Task Manager.png",
-    github: "https://github.com/tulsishuka/ai-chatbot",
-  },
+  
   {
     num: "13",
-    desc: "AI-Chatbot - Search Anything",
+    desc: "System Broker - Search Anything",
     stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
     image: "/assets/work/ul.png",
     github: "https://github.com/tulsishuka/ai-chatbot",
