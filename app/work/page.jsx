@@ -145,6 +145,13 @@ const projects = [
     image: "/assets/work/Task Manager.png",
     github: "https://github.com/tulsishuka/ai-chatbot",
   },
+  {
+    num: "13",
+    desc: "AI-Chatbot - Search Anything",
+    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
+    image: "/assets/work/ul.png",
+    github: "https://github.com/tulsishuka/ai-chatbot",
+  },
 ]
 
 const Work = () => {
