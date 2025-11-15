@@ -110,7 +110,41 @@ const projects = [
     image: "/assets/work/ai.png",
     github: "https://github.com/tulsishuka/ai-chatbot",
   },
-
+ {
+    num: "08",
+    desc: "AI-Chatbot - Search Anything",
+    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
+    image: "/assets/work/Login Page.png",
+    github: "https://github.com/tulsishuka/ai-chatbot",
+  },
+   {
+    num: "09",
+    desc: "AI-Chatbot - Search Anything",
+    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
+    image: "/assets/work/Dream.png",
+    github: "https://github.com/tulsishuka/ai-chatbot",
+  },
+   {
+    num: "10",
+    desc: "AI-Chatbot - Search Anything",
+    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
+    image: "/assets/work/Pagination.png",
+    github: "https://github.com/tulsishuka/ai-chatbot",
+  },
+   {
+    num: "11",
+    desc: "AI-Chatbot - Search Anything",
+    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
+    image: "/assets/work/Post Maker.png",
+    github: "https://github.com/tulsishuka/ai-chatbot",
+  },
+   {
+    num: "12",
+    desc: "AI-Chatbot - Search Anything",
+    stack: [{ name: "Html" }, { name: "Css" }, { name: "Gemini-Api" }, { name: "React" }, { name: "Tailwindcss" }],
+    image: "/assets/work/Task Manager.png",
+    github: "https://github.com/tulsishuka/ai-chatbot",
+  },
 ]
 
 const Work = () => {
